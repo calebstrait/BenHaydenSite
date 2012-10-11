@@ -28,7 +28,7 @@ body {
 }
 
 .icons {
-  margin: 0px 20px;
+  margin: 0px 10px;
 }
 
 .info-blocks {
@@ -54,4 +54,8 @@ li {
 
 ul {
   padding: 0px;
+}
+
+#ur-logo {
+  margin-bottom: 5px;
 }
